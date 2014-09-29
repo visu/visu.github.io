@@ -6,7 +6,9 @@ rdiscount:
 gems:
   - jekyll-sitemap
 
-name: Visu Mahalingam
+name: Visu M
+author: Visu Mahalingam
 url: http://visu.me
-description: A fantastic blog that is fantastic.
+description: notes on Tech
 twitter: visu_m
+linkedin: mvisu
